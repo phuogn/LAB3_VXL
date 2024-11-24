@@ -1,0 +1,8 @@
+../Core/Src/traffic_light.c:10:6:INIT_LIGHT	1
+../Core/Src/traffic_light.c:24:6:LIGHT_RED_GREEN	1
+../Core/Src/traffic_light.c:38:6:LIGHT_RED_YELOW	1
+../Core/Src/traffic_light.c:53:6:LIGHT_GREEN_RED	1
+../Core/Src/traffic_light.c:67:6:LIGHT_YELOW_RED	1
+../Core/Src/traffic_light.c:81:6:Toggle_red	1
+../Core/Src/traffic_light.c:87:6:Toggle_yelow	1
+../Core/Src/traffic_light.c:93:6:Toggle_green	1

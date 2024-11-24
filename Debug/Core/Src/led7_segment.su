@@ -1,0 +1,5 @@
+../Core/Src/led7_segment.c:10:6:init_segment	8	static
+../Core/Src/led7_segment.c:31:6:display7SEG	32	static
+../Core/Src/led7_segment.c:64:6:led7_seg1	16	static
+../Core/Src/led7_segment.c:76:6:led7_seg2	16	static
+../Core/Src/led7_segment.c:88:6:led_setting	4	static
